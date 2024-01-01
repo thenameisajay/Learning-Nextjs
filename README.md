@@ -1,6 +1,6 @@
 ## Next.js App Router Course - Learner Dashboard
 
- LINK TO LIVE SITE: https://learning-nextjs-navy.vercel.app (DEFUNCT)
+ LINK TO LIVE SITE: https://learning-nextjs-navy.vercel.app <strong> (DEFUNCT) </strong> - Backend removed for another project under free plans
 
 ## Login Credentials:
 
